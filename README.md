@@ -1,2 +1,0 @@
-# BankManagement
-Bank Management System
